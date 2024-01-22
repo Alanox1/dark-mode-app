@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column; 
+  height: 100vh;
+  align-items: space-between;
+  width: 100%;
+}
+
+.dark{
+    background-color: #1a1a1a;
+    color: #dcdcdc;
+}
+
+.clear{
+  background-color: #ffffff;
+  color: #333333;
+}
